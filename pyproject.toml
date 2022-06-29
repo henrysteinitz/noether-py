@@ -1,0 +1,18 @@
+[project]
+name = "noether"
+version = "0.0.1"
+authors = [
+  { name="Henry Steinitz", email="henry@noetherinc.com" },
+]
+description = "Noether API client library for Python"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://noether.dev"

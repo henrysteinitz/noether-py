@@ -1,5 +1,5 @@
 [project]
-name = "noether"
+name = "noether_api"
 version = "0.0.1"
 authors = [
   { name="Henry Steinitz", email="henry@noetherinc.com" },

@@ -18,7 +18,7 @@ def parse_data_input(text: str = None, image_url: str = None, audio_url: str = N
 	return result
 
 
-class NoetherClient:
+class Noether:
 	def __init__(self, api_key: str):
 		self._api_key = api_key
 

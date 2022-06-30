@@ -24,3 +24,5 @@ The script above should print the following:
 ```
 {'data': ['white'], 'success': True}
 ```
+
+Visit [noether.dev](https://noether.dev) for more details.

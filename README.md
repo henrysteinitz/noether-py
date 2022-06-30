@@ -1,7 +1,7 @@
 
 ## How to install
 ```
-pip install noether_api
+pip install noether-api
 ```
 
 ## How to use

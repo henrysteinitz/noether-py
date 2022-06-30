@@ -1,8 +1,10 @@
 
+## How to install
 ```
 pip install noether_api
 ```
 
+## How to use
 ```
 # Import NoetherClient
 from noether_api import NoetherClient
@@ -16,4 +18,9 @@ result = noether.ask(
 	question="What color are the letters on the players shirt?"
 )
 print(result)
+```
+
+The script above should print the following:
+```
+{'data': ['white'], 'success': True}
 ```

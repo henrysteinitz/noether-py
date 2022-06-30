@@ -19,7 +19,7 @@ result = noether.ask(
 )
 print(result)
 ```
-
+![Image](https://cdn.vox-cdn.com/thumbor/oCiqoTZlurIloHrG8O3cHqpBOiE=/241x193:2304x1644/1200x800/filters:focal(1034x301:1446x713)/cdn.vox-cdn.com/uploads/chorus_image/image/53741489/618916710.0.jpg)
 The script above should print the following:
 ```
 {'data': ['white'], 'success': True}

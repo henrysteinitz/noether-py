@@ -10,7 +10,7 @@ pip install noether-api
 from noether_api import NoetherClient
 
 # Create Noether client
-noether = NoetherClient(api_key="test_key")
+noether = NoetherClient(api_key="...")
 
 # Ask 
 result = noether.ask(

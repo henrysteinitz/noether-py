@@ -1,1 +1,1 @@
-from client import NoetherClient
+from .client import Noether
